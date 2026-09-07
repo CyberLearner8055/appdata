@@ -8164,6 +8164,14 @@
           "server3": "",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn26.top/video/d54be4ff5a9dad8e016206a562bb7915",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -9933,6 +9941,16 @@
         {
           "epNum": 12,
           "server1": "https://as-cdn26.top/video/de24e1cb8921280596f82fe71298847e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "3": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn26.top/video/077c7fb8fcf33cec814d0bde680aa041",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -15390,6 +15408,14 @@
           "server3": "",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn26.top/video/7552f92d072463ee57944b4a15f42967",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -15576,6 +15602,14 @@
           "server3": "",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn26.top/video/92f2c86007260e130e78c68fb7d800a1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -15653,6 +15687,14 @@
           "server3": "",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn26.top/video/37c429609aa5ffe35484714281ebcb23",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -15710,6 +15752,14 @@
         {
           "epNum": 5,
           "server1": "https://as-cdn26.top/video/97d59bbb0fa57e38380bf3415b38b044",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn26.top/video/b3a6feac837e75982c8b2bc0997cec29",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -16294,6 +16344,14 @@
           "server3": "",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn26.top/video/6b027466c3ca21b6d1a1d594d6820833",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -16500,6 +16558,14 @@
         {
           "epNum": 8,
           "server1": "https://as-cdn26.top/video/b76226c0b9542b5fa7c4ff56ff755802",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn26.top/video/619d2a97e00bebf0853705dc8973c56a",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -16954,6 +17020,14 @@
         {
           "epNum": 9,
           "server1": "https://as-cdn26.top/video/2c6da25c244f420a938f030b17e22d3e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn26.top/video/09097f6b55431417a44fb77260332781",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -18771,6 +18845,14 @@
           "server3": "",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 19,
+          "server1": "https://as-cdn26.top/video/5b514cb9ea545a33518ce8c2de89e0fc",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -19065,6 +19147,14 @@
         {
           "epNum": 18,
           "server1": "https://as-cdn26.top/video/d7416380bea3deeffaa942591263d351",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 19,
+          "server1": "https://as-cdn26.top/video/93dd84d3f9b0cc34957a3d9166d2d75e",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -22475,6 +22565,30 @@
           "server3": "",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 22,
+          "server1": "https://as-cdn26.top/video/6ca2a46ddef1ae69e6f8b205456fd3ae",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 23,
+          "server1": "https://as-cdn26.top/video/0b7127c966fa2dc3e83d3c9651e9d9b6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 24,
+          "server1": "https://as-cdn26.top/video/9940dc91e5d2185602912ef38945fcea",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -25685,6 +25799,56 @@
         {
           "epNum": 12,
           "server1": "https://as-cdn26.top/video/990b1b9fea9280d08dda7a8969839df0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "2": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn26.top/video/53c6684db6a8f413504063163d94972b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn26.top/video/89ada874a8dffb56920a557a3909f827",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn26.top/video/b2335c67c2b28490257e34f369099f4e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn26.top/video/43a4d135b5225238f2adbf88dc810a6b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn26.top/video/50ccd9ce8ab9c878d0de43f569416343",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn26.top/video/650d96fe435bc0effc40f2b0a0b027dc",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -40377,6 +40541,14 @@
         {
           "epNum": 8,
           "server1": "https://as-cdn26.top/video/da29469a4b6418140138895517be93c4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn26.top/video/78cc593b765dd45436b48b6a2e7ac672",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -56106,6 +56278,48 @@
           "server4": "",
           "server5": ""
         }
+      ],
+      "3": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn26.top/video/36a3c31c3e6d065c50b3d80fd9ba39bf",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn26.top/video/a5de315acb973b8e6da83458c9e456d3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn26.top/video/ee9a1fc09b64d5cdd17ba7b7f6640409",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn26.top/video/4703873a678a5cd835a7500d9a0948d1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn26.top/video/31ea4d7f6224981d94a3c33b0a028a7c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
       ]
     }
   },
@@ -70935,6 +71149,104 @@
         {
           "epNum": 14,
           "server1": "https://as-cdn26.top/video/5bb352aa0983fe81d1ab84a49b7a902f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "3": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn26.top/video/e72f04340ba52eeb59aac43d472d1d31",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn26.top/video/233e90f3f8794e85bc244be259a99724",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn26.top/video/1fe165377d4907f0ea45a5397520b85c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn26.top/video/bc4647bddd46ee572310781a51030572",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn26.top/video/d82604de52c7a4c0d104443d90790b81",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn26.top/video/7c07c57fdac8c86edca57efcdc5134a1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn26.top/video/f02e21c27440aef2e5c495ce615279e3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn26.top/video/37fd913e3ae9a65bc011675868062827",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn26.top/video/d92ea9b81f514a1f8c2330f1b579bf21",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn26.top/video/c24c1162580cb8b37ff4815dda98f4c3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn26.top/video/bfc58c81e954a4ee8722992437a86d9d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn26.top/video/861771f24543eab4b20bd2e057a44c39",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -115669,6 +115981,16 @@
           "server4": "",
           "server5": ""
         }
+      ],
+      "3": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn26.top/video/b7f0b1c1761095727bb5513df24a3302",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
       ]
     }
   },
@@ -119922,6 +120244,72 @@
         {
           "epNum": 21,
           "server1": "https://as-cdn26.top/video/8153efae49e1b88abeaaef5a05ae14bb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "3": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn26.top/video/2ced6d22fa9fd127688f53e50dd559ed",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn26.top/video/e8cc6d71668a336b1fae96066323a6ba",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn26.top/video/18318da7dae61a542729d9da994161be",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn26.top/video/57be811f4915eea52686805835b070b0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn26.top/video/ac63ec3793010b4f6477df5e0006ca07",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn26.top/video/bd6bea3eddab0a8f104798af402ae0a3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn26.top/video/04930d00fbff812a0390c8173aa92faa",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn26.top/video/bd368b0c08f20e87fe463f6b0dd60835",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -133452,6 +133840,14 @@
         {
           "epNum": 3,
           "server1": "https://as-cdn26.top/video/0ea2cf87ee4b92cb47512acffc14da9d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn26.top/video/925e3987f7ed37663f47d36d5749bb48",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -154161,6 +154557,14 @@
           "server3": "",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 15,
+          "server1": "https://as-cdn26.top/video/9a1a05c42c96b161ecd2884b758e114a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -155323,8 +155727,8 @@
         },
         {
           "epNum": 53,
-          "server1": "",
-          "server2": "",
+          "server1": "https://megaplay.buzz/stream/s-2/27429/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/27429/dub",
           "server3": "",
           "server4": "",
           "server5": ""
@@ -155451,8 +155855,8 @@
         },
         {
           "epNum": 69,
-          "server1": "",
-          "server2": "",
+          "server1": "https://megaplay.buzz/stream/s-2/27445/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/27445/dub",
           "server3": "",
           "server4": "",
           "server5": ""
@@ -155675,8 +156079,8 @@
         },
         {
           "epNum": 97,
-          "server1": "",
-          "server2": "",
+          "server1": "https://megaplay.buzz/stream/s-2/27473/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/27473/dub",
           "server3": "",
           "server4": "",
           "server5": ""
@@ -155699,8 +156103,8 @@
         },
         {
           "epNum": 100,
-          "server1": "",
-          "server2": "",
+          "server1": "https://megaplay.buzz/stream/s-2/27476/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/27476/dub",
           "server3": "",
           "server4": "",
           "server5": ""
@@ -157066,6 +157470,14 @@
         {
           "epNum": 4,
           "server1": "https://as-cdn26.top/video/65b5fc46fc82087ba24609b14f2dc4ff",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn26.top/video/8d4965eaf92972d652fd44ece6f79533",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -159202,6 +159614,726 @@
           "server3": "",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://megaplay.buzz/stream/s-2/47095/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47095/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://megaplay.buzz/stream/s-2/47096/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47096/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 13,
+          "server1": "https://megaplay.buzz/stream/s-2/47097/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47097/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 14,
+          "server1": "https://megaplay.buzz/stream/s-2/47098/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47098/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 15,
+          "server1": "https://megaplay.buzz/stream/s-2/47099/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47099/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 16,
+          "server1": "https://megaplay.buzz/stream/s-2/47100/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47100/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 17,
+          "server1": "https://megaplay.buzz/stream/s-2/47101/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47101/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 18,
+          "server1": "https://megaplay.buzz/stream/s-2/47102/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47102/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 19,
+          "server1": "https://megaplay.buzz/stream/s-2/47103/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47103/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 20,
+          "server1": "https://megaplay.buzz/stream/s-2/47104/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47104/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 21,
+          "server1": "https://megaplay.buzz/stream/s-2/47105/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47105/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 22,
+          "server1": "https://megaplay.buzz/stream/s-2/47106/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47106/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 23,
+          "server1": "https://megaplay.buzz/stream/s-2/47107/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47107/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 24,
+          "server1": "https://megaplay.buzz/stream/s-2/47108/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47108/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 25,
+          "server1": "https://megaplay.buzz/stream/s-2/47109/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47109/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 26,
+          "server1": "https://megaplay.buzz/stream/s-2/47110/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47110/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 27,
+          "server1": "https://megaplay.buzz/stream/s-2/47111/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47111/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 28,
+          "server1": "https://megaplay.buzz/stream/s-2/47112/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47112/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 29,
+          "server1": "https://megaplay.buzz/stream/s-2/47113/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47113/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 30,
+          "server1": "https://megaplay.buzz/stream/s-2/47114/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47114/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 31,
+          "server1": "https://megaplay.buzz/stream/s-2/47115/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47115/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 32,
+          "server1": "https://megaplay.buzz/stream/s-2/47116/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47116/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 33,
+          "server1": "https://megaplay.buzz/stream/s-2/47117/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47117/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 34,
+          "server1": "https://megaplay.buzz/stream/s-2/47118/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47118/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 35,
+          "server1": "https://megaplay.buzz/stream/s-2/47119/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47119/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 36,
+          "server1": "https://megaplay.buzz/stream/s-2/47120/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47120/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 37,
+          "server1": "https://megaplay.buzz/stream/s-2/47121/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47121/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 38,
+          "server1": "https://megaplay.buzz/stream/s-2/47122/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47122/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 39,
+          "server1": "https://megaplay.buzz/stream/s-2/47123/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47123/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 40,
+          "server1": "https://megaplay.buzz/stream/s-2/47124/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47124/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 41,
+          "server1": "https://megaplay.buzz/stream/s-2/47125/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47125/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 42,
+          "server1": "https://megaplay.buzz/stream/s-2/47126/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47126/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 43,
+          "server1": "https://megaplay.buzz/stream/s-2/47127/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47127/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 44,
+          "server1": "https://megaplay.buzz/stream/s-2/47128/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47128/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 45,
+          "server1": "https://megaplay.buzz/stream/s-2/47129/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47129/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 46,
+          "server1": "https://megaplay.buzz/stream/s-2/47130/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47130/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 47,
+          "server1": "https://megaplay.buzz/stream/s-2/47131/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47131/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 48,
+          "server1": "https://megaplay.buzz/stream/s-2/47132/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47132/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 49,
+          "server1": "https://megaplay.buzz/stream/s-2/47133/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47133/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 50,
+          "server1": "https://megaplay.buzz/stream/s-2/47134/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47134/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 51,
+          "server1": "https://megaplay.buzz/stream/s-2/47135/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47135/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 52,
+          "server1": "https://megaplay.buzz/stream/s-2/47136/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47136/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 53,
+          "server1": "https://megaplay.buzz/stream/s-2/47137/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47137/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 54,
+          "server1": "https://megaplay.buzz/stream/s-2/47138/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47138/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 55,
+          "server1": "https://megaplay.buzz/stream/s-2/47139/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47139/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 56,
+          "server1": "https://megaplay.buzz/stream/s-2/47140/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47140/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 57,
+          "server1": "https://megaplay.buzz/stream/s-2/47141/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47141/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 58,
+          "server1": "https://megaplay.buzz/stream/s-2/47142/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47142/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 59,
+          "server1": "https://megaplay.buzz/stream/s-2/47143/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47143/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 60,
+          "server1": "https://megaplay.buzz/stream/s-2/47144/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47144/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 61,
+          "server1": "https://megaplay.buzz/stream/s-2/47145/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47145/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 62,
+          "server1": "https://megaplay.buzz/stream/s-2/47146/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47146/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 63,
+          "server1": "https://megaplay.buzz/stream/s-2/47147/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47147/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 64,
+          "server1": "https://megaplay.buzz/stream/s-2/47148/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47148/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 65,
+          "server1": "https://megaplay.buzz/stream/s-2/47149/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47149/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 66,
+          "server1": "https://megaplay.buzz/stream/s-2/47150/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47150/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 67,
+          "server1": "https://megaplay.buzz/stream/s-2/47151/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47151/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 68,
+          "server1": "https://megaplay.buzz/stream/s-2/47152/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47152/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 69,
+          "server1": "https://megaplay.buzz/stream/s-2/47153/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47153/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 70,
+          "server1": "https://megaplay.buzz/stream/s-2/47154/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47154/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 71,
+          "server1": "https://megaplay.buzz/stream/s-2/47155/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47155/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 72,
+          "server1": "https://megaplay.buzz/stream/s-2/47156/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47156/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 73,
+          "server1": "https://megaplay.buzz/stream/s-2/47157/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47157/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 74,
+          "server1": "https://megaplay.buzz/stream/s-2/47158/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47158/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 75,
+          "server1": "https://megaplay.buzz/stream/s-2/47159/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47159/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 76,
+          "server1": "https://megaplay.buzz/stream/s-2/47160/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47160/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 77,
+          "server1": "https://megaplay.buzz/stream/s-2/47161/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47161/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 78,
+          "server1": "https://megaplay.buzz/stream/s-2/47162/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47162/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 79,
+          "server1": "https://megaplay.buzz/stream/s-2/47163/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47163/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 80,
+          "server1": "https://megaplay.buzz/stream/s-2/47164/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47164/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 81,
+          "server1": "https://megaplay.buzz/stream/s-2/47165/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47165/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 82,
+          "server1": "https://megaplay.buzz/stream/s-2/47166/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47166/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 83,
+          "server1": "https://megaplay.buzz/stream/s-2/47167/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47167/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 84,
+          "server1": "https://megaplay.buzz/stream/s-2/47168/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47168/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 85,
+          "server1": "https://megaplay.buzz/stream/s-2/47169/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47169/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 86,
+          "server1": "https://megaplay.buzz/stream/s-2/47170/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47170/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 87,
+          "server1": "https://megaplay.buzz/stream/s-2/47171/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47171/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 88,
+          "server1": "https://megaplay.buzz/stream/s-2/47172/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47172/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 89,
+          "server1": "https://megaplay.buzz/stream/s-2/47173/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47173/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 90,
+          "server1": "https://megaplay.buzz/stream/s-2/47174/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47174/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 91,
+          "server1": "https://megaplay.buzz/stream/s-2/47175/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47175/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 92,
+          "server1": "https://megaplay.buzz/stream/s-2/47176/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47176/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 93,
+          "server1": "https://megaplay.buzz/stream/s-2/47177/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47177/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 94,
+          "server1": "https://megaplay.buzz/stream/s-2/47178/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47178/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 95,
+          "server1": "https://megaplay.buzz/stream/s-2/47179/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47179/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 96,
+          "server1": "https://megaplay.buzz/stream/s-2/47180/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47180/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 97,
+          "server1": "https://megaplay.buzz/stream/s-2/47181/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47181/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 98,
+          "server1": "https://megaplay.buzz/stream/s-2/47182/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47182/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 99,
+          "server1": "https://megaplay.buzz/stream/s-2/47183/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47183/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 100,
+          "server1": "https://megaplay.buzz/stream/s-2/47184/sub",
+          "server2": "https://megaplay.buzz/stream/s-2/47184/dub",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -159227,6 +160359,14 @@
         {
           "epNum": 1,
           "server1": "https://as-cdn26.top/video/5f22e82f3d2c279d57c76a0513276abb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn26.top/video/12d7d2b7f1a9db42326ae3f428f43a7a",
           "server2": "",
           "server3": "",
           "server4": "",
@@ -159272,6 +160412,14 @@
         {
           "epNum": 3,
           "server1": "https://as-cdn26.top/video/e3f2b325739bbe549d3875450b27a3a1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn26.top/video/a9a2c061a1c2743d489c6863eae6725a",
           "server2": "",
           "server3": "",
           "server4": "",
