@@ -40,6 +40,14 @@
           "server3": "https://player.abyssplayer.com/7cEVxg1F6",
           "server4": "",
           "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://ravok.buzz/video/91be0e18777ce6c751271fcc00d93d87",
+          "server2": "https://player.abyssplayer.com/vNCPxKo41",
+          "server3": "https://player.abyssplayer.com/XLnl365fJ",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -2735,6 +2743,14 @@
           "server3": "https://player.abyssplayer.com/vJypNDLB4",
           "server4": "https://player.abyssplayer.com/Q2H3Us6MI",
           "server5": "https://player.abyssplayer.com/Hq8hEEcjM"
+        },
+        {
+          "epNum": 12,
+          "server1": "https://ravok.buzz/video/1424a2874fbe1b99f48b836ca8952541",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -9290,6 +9306,14 @@
           "server3": "https://player.abyssplayer.com/4XheVX31X",
           "server4": "https://player.abyssplayer.com/mJwD8IDh8",
           "server5": "https://player.abyssplayer.com/er2pmhyW3"
+        },
+        {
+          "epNum": 11,
+          "server1": "https://ravok.buzz/video/23c84f1d392d1453b7a1e380bd6acd0a",
+          "server2": "https://player.abyssplayer.com/yqjBiAOV4",
+          "server3": "https://player.abyssplayer.com/8BbRqWtok",
+          "server4": "https://player.abyssplayer.com/FP3HF1Cg6",
+          "server5": "https://player.abyssplayer.com/Zrc6qVZWUm"
         }
       ]
     }
@@ -9391,6 +9415,14 @@
           "server3": "https://player.abyssplayer.com/6VuEaeccN",
           "server4": "https://player.abyssplayer.com/uRFm4gjhP",
           "server5": "https://player.abyssplayer.com/SbIiml-mDs"
+        },
+        {
+          "epNum": 11,
+          "server1": "https://ravok.buzz/video/a7a89f98fdd903aadac6707dcda43a9d",
+          "server2": "https://player.abyssplayer.com/pXGUi-U1g",
+          "server3": "https://player.abyssplayer.com/2OMNn0B2h",
+          "server4": "https://player.abyssplayer.com/NIUb1PSQK",
+          "server5": "https://player.abyssplayer.com/7Exx-DHTf"
         }
       ]
     }
@@ -14629,6 +14661,14 @@
           "server3": "https://player.abyssplayer.com/tCmYfb4fH",
           "server4": "https://player.abyssplayer.com/nTnQqj_Yl",
           "server5": "https://player.abyssplayer.com/z7HHUU88b"
+        },
+        {
+          "epNum": 24,
+          "server1": "https://ravok.buzz/video/faf73b21f308431fb3cf1c58d228eca2",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
         }
       ]
     }
@@ -17554,8 +17594,8 @@
         },
         {
           "epNum": 38,
-          "server1": "",
-          "server2": "",
+          "server1": "https://ravok.buzz/video/4df14e7ba7f3122fa391492bdf8d59a7",
+          "server2": "https://player.abyssplayer.com/c1NGEXJThC",
           "server3": "",
           "server4": "",
           "server5": ""
@@ -28201,6 +28241,14 @@
           "server3": "https://player.abyssplayer.com/wCb0DOpVB",
           "server4": "https://player.abyssplayer.com/ArKX_HiIe",
           "server5": "https://player.abyssplayer.com/IzmWlXHPG"
+        },
+        {
+          "epNum": 13,
+          "server1": "https://ravok.buzz/video/8c41eebf5a1f5867cbe38cf59b37c1bf",
+          "server2": "https://player.abyssplayer.com/j9eiRcLkR",
+          "server3": "https://player.abyssplayer.com/50-AoSZgfjh",
+          "server4": "https://player.abyssplayer.com/cby8wcbUd",
+          "server5": "https://player.abyssplayer.com/IC0KwH9I_"
         }
       ]
     }
@@ -50325,6 +50373,30 @@
           "server2": "https://player.abyssplayer.com/-70VG1Ds1",
           "server3": "https://player.abyssplayer.com/ARnA4R4Zh",
           "server4": "https://player.abyssplayer.com/qQ_h5RnEn",
+          "server5": ""
+        },
+        {
+          "epNum": 35,
+          "server1": "https://ravok.buzz/video/925a10591aef311718138363f040e391",
+          "server2": "https://player.abyssplayer.com/CoG-5R4-R",
+          "server3": "https://player.abyssplayer.com/MvonI6SQN",
+          "server4": "https://player.abyssplayer.com/yXqw8PAuo",
+          "server5": ""
+        },
+        {
+          "epNum": 36,
+          "server1": "https://ravok.buzz/video/b06e70e3e05ed28dc028593664e416e2",
+          "server2": "https://player.abyssplayer.com/9PyoEb5cV",
+          "server3": "https://player.abyssplayer.com/3bJwJCB-A",
+          "server4": "https://player.abyssplayer.com/TpSunR6jY",
+          "server5": ""
+        },
+        {
+          "epNum": 37,
+          "server1": "https://ravok.buzz/video/84648eaca6a7fc8394fbdb9cf07fd236",
+          "server2": "https://player.abyssplayer.com/NCSGV4YKT_",
+          "server3": "https://player.abyssplayer.com/_IvTCJo8u",
+          "server4": "https://player.abyssplayer.com/T-JTd-QfS",
           "server5": ""
         }
       ]
@@ -120353,6 +120425,14 @@
           "server2": "https://player.abyssplayer.com/Pw16hkyX1",
           "server3": "https://player.abyssplayer.com/KaGojhIWb",
           "server4": "https://player.abyssplayer.com/FZX0ZVmYA",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://ravok.buzz/video/9c10d235bc6941125446942ec2c0d999",
+          "server2": "https://player.abyssplayer.com/ztgHZ15gw",
+          "server3": "https://player.abyssplayer.com/mEUstWSni",
+          "server4": "https://player.abyssplayer.com/YM_zYDwH6",
           "server5": ""
         }
       ]
